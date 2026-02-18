@@ -16,7 +16,7 @@ Document maintainer: product owner
 
 ## Table of contents
 
-1. [Product Overview](#1-Product Overview)
+1. [Product Overview](#1-product-overview)
   - 1.1 Background and market insights
   - 1.2 Product Mission
   - 1.3 Target users
@@ -27,7 +27,7 @@ Document maintainer: product owner
   - 1.8 One-page product positioning (One-Pager)
   - 1.9 Product scope boundaries (In Scope / Out of Scope)
   - 1.10 Accessibility and inclusive design requirements
-2. [In-depth analysis of competitive products](#2-In-depth analysis of competitive products)
+2. [In-depth analysis of competitive products](#2-in-depth-analysis-of-competing-products)
   - 2.1 Overview of Globally Influential Products (International + Chinese Local)
   - 2.2 In-depth dismantling of product logic (eight competing products from A to H)
   - 2.3 Competitive product functional capability matrix
@@ -36,7 +36,7 @@ Document maintainer: product owner
   - 2.6 Cross-Dimensional Comparison
   - 2.7 Competitive product vertical analysis (Evolution & Trend Analysis)
   - 2.8 FOMO Differentiated Competition Strategy
-3. [Functional Documentation](#3-Functional Documentation)
+3. [Functional Documentation](#3-functional-documentation)
   - 3.0 Function Priority Summary List
   - 3.1 AI touchpoint map
   - F-01 Interruption Gate
@@ -52,17 +52,17 @@ Document maintainer: product owner
   - F-11 Minimalist Mode (Phase 3)
   - F-12 Emotion Sensing Engine (Phase 2)
   - F-13 Mindful Moments (Phase 2)
-4. [Milestone](#4-Milestone)
+4. [Milestones](#4-milestones)
   - 4.1 Overall roadmap (12 months)
   - 4.2 Details of each stage (Phase 0–3)
   - 4.3 Critical path and dependency graph
-5. [Iteration Plan](#5-Iteration Plan)
+5. [Iteration Plan](#5-iteration-planning)
   - 5.1 Sprint Rules and Rituals
   - 5.2 MVP Sprint Scheduling (S1–S4)
   - 5.3 Phase 2 Sprint（S5–S10）
   - 5.4 Release strategy and rollback decision tree
-6. [Streamline resource information](#6-Streamline resource information)
-7. [Business Model](#7-Business Model)
+6. [Streamline resource information](#6-streamline-resource-information)
+7. [Business Model](#7-business-model)
   - 7.1 FOMO Pricing (Freemium)
   - 7.2 Unit Economics
   - 7.2.1 In-depth analysis of business model
@@ -75,15 +75,15 @@ Document maintainer: product owner
   - 7.4 Growth Flywheel
   - 7.5 Humanistic values ​​and business balance
   - 7.6 Clear differentiation path (Why us)
-8. [Risk Management](#8-Risk Management)
+8. [Risk Management](#8-risk-management)
   - 8.1 Risk heat map
   - 8.2 Risk details and response Playbook (R1–R13)
   - 8.3 Risk Monitoring Dashboard (Traffic Light)
   - 8.4 Data Security and Compliance Checklist
-9. [Appendix](#9-Appendix)
+9. [Appendix](#9-appendix)
   - 9.1 Glossary
   - 9.2 References
-10. [Business & Execution Pack](#10-Business & Execution Pack)
+10. [Business & Execution Pack](#10-business--execution-pack)
    - 10.1 Financing Roadshow PPT Outline (12 Pages Deck)
    - 10.2 MVP detailed task list (User Stories)
    - 10.3 Product Philosophy and Humanistic Declaration
