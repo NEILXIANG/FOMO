@@ -83,7 +83,7 @@
 9. [附录](#9-附录)
   - 9.1 术语表
   - 9.2 参考资料
-10. [商业与执行扩展（Business & Execution Pack）](#10-商业与执行扩展)
+10. [商业与执行扩展（Business & Execution Pack）](#10-商业与执行扩展business--execution-pack)
    - 10.1 融资路演 PPT 大纲（12 页 Deck）
    - 10.2 MVP 详细任务清单（User Stories）
    - 10.3 产品哲学与人文宣言
