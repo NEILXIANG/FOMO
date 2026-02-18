@@ -17,78 +17,78 @@ Document maintainer: product owner
 ## Table of contents
 
 1. [Product Overview](#1-product-overview)
-  - 1.1 Background and market insights
-  - 1.2 Product Mission
-  - 1.3 Target users
-  - 1.4 North Star Metric (NSM)
-  - 1.5 Key Results (KR, first 6 months)
-  - 1.6 Human-centered care and ethical boundaries
-  - 1.7 Human-centered philosophy implementation mechanism
-  - 1.8 One-page product positioning (One-Pager)
-  - 1.9 Product scope boundaries (In Scope / Out of Scope)
-  - 1.10 Accessibility and inclusive design requirements
+  - [1.1 Background and market insights](#11-background-and-market-insights)
+  - [1.2 Product Mission](#12-product-mission)
+  - [1.3 Target users](#13-target-users)
+  - [1.4 North Star Metric (NSM)](#14-north-star-metric-nsm)
+  - [1.5 Key Results (KR, first 6 months)](#15-key-results-kr-first-6-months)
+  - [1.6 Human-centered care and ethical boundaries](#16-human-centered-care-and-ethical-boundaries产品底线)
+  - [1.7 Human-centered philosophy implementation mechanism](#17-human-centered-philosophy-implementation-mechanism章节落地)
+  - [1.8 One-page product positioning (One-Pager)](#18-one-page-product-positioning-one-pager)
+  - [1.9 Product scope boundaries (In Scope / Out of Scope)](#19-product-scope-boundaries-in-scope--out-of-scope)
+  - [1.10 Accessibility and inclusive design requirements](#110-accessibility-and-inclusive-design-requirements)
 2. [In-depth analysis of competitive products](#2-in-depth-analysis-of-competing-products)
-  - 2.1 Overview of Globally Influential Products (International + Chinese Local)
-  - 2.2 In-depth dismantling of product logic (eight competing products from A to H)
-  - 2.3 Competitive product functional capability matrix
-  - 2.4 Classification of behavioral intervention types
-  - 2.5 Panoramic comparison of competitive product pricing
-  - 2.6 Cross-Dimensional Comparison
-  - 2.7 Competitive product vertical analysis (Evolution & Trend Analysis)
-  - 2.8 FOMO Differentiated Competition Strategy
+  - [2.1 Overview of Globally Influential Products (International + Chinese Local)](#21-overview-of-globally-influential-products)
+  - [2.2 In-depth dismantling of product logic (eight competing products from A to H)](#22-in-depth-dismantling-of-product-logic)
+  - [2.3 Competitive product functional capability matrix](#23-competitive-product-functional-capability-matrix)
+  - [2.4 Classification of behavioral intervention types](#24-classification-of-behavioral-intervention-types)
+  - [2.5 Panoramic comparison of competitive product pricing](#25-panoramic-comparison-of-competitive-product-pricing)
+  - [2.6 Cross-Dimensional Comparison](#26-竞品横向分析cross-dimensional-comparison)
+  - [2.7 Competitive product vertical analysis (Evolution & Trend Analysis)](#27-竞品纵向分析evolution--trend-analysis)
+  - [2.8 FOMO Differentiated Competition Strategy](#28-fomo-差异化竞争策略)
 3. [Functional Documentation](#3-functional-documentation)
-  - 3.0 Function Priority Summary List
-  - 3.1 AI touchpoint map
-  - F-01 Interruption Gate
-  - F-02 Rules Hub
-  - F-03 Insights & Achievements
-  - F-04 Anti-Bypass protection (Anti-Bypass)
-  - F-05 Onboarding
-  - F-06 AI behavioral coach (Phase 2)
-  - F-07 Partner Supervision (Phase 2)
-  - F-08 Browser Extension (Phase 2)
-  - F-09 Family Empathy Model (Phase 2–3)
-  - F-10 In-App Feature Interception (Phase 3)
-  - F-11 Minimalist Mode (Phase 3)
-  - F-12 Emotion Sensing Engine (Phase 2)
-  - F-13 Mindful Moments (Phase 2)
+  - [3.0 Function Priority Summary List](#30-功能优先级总表)
+  - [3.1 AI touchpoint map](#31-ai-触点地图产品逻辑)
+  - [F-01 Interruption Gate](#f-01-冲动中断interruption-gate)
+  - [F-02 Rules Hub](#f-02-规则中心rules-hub)
+  - [F-03 Insights & Achievements](#f-03-反馈与成就insights--achievements)
+  - [F-04 Anti-Bypass protection (Anti-Bypass)](#f-04-反绕过保护anti-bypass)
+  - [F-05 Onboarding](#f-05-新手引导onboarding)
+  - [F-06 AI behavioral coach (Phase 2)](#f-06-ai-行为教练p1phase-2)
+  - [F-07 Partner Supervision (Phase 2)](#f-07-伙伴监督p1phase-2)
+  - [F-08 Browser Extension (Phase 2)](#f-08-浏览器扩展p1phase-2)
+  - [F-09 Family Empathy Model (Phase 2–3)](#f-09-家庭共情模式p1phase-23)
+  - [F-10 In-App Feature Interception (Phase 3)](#f-10-应用内特性拦截p2phase-3)
+  - [F-11 Minimalist Mode (Phase 3)](#f-11-极简模式p2phase-3)
+  - [F-12 Emotion Sensing Engine (Phase 2)](#f-12-情绪感知引擎p1phase-2)
+  - [F-13 Mindful Moments (Phase 2)](#f-13-正念时刻p1phase-2)
 4. [Milestones](#4-milestones)
-  - 4.1 Overall roadmap (12 months)
-  - 4.2 Details of each stage (Phase 0–3)
-  - 4.3 Critical path and dependency graph
+  - [4.1 Overall roadmap (12 months)](#41-总体路线图12-个月)
+  - [4.2 Details of each stage (Phase 0–3)](#42-各阶段详情)
+  - [4.3 Critical path and dependency graph](#43-关键路径与依赖图)
 5. [Iteration Plan](#5-iteration-planning)
-  - 5.1 Sprint Rules and Rituals
-  - 5.2 MVP Sprint Scheduling (S1–S4)
-  - 5.3 Phase 2 Sprint（S5–S10）
-  - 5.4 Release strategy and rollback decision tree
+  - [5.1 Sprint Rules and Rituals](#51-sprint-规则与仪式)
+  - [5.2 MVP Sprint Scheduling (S1–S4)](#52-mvp-sprint-排期s1s4w5w12)
+  - [5.3 Phase 2 Sprint（S5–S10）](#53-phase-2-sprints5s10w13w24)
+  - [5.4 Release strategy and rollback decision tree](#54-发布策略与回滚决策树)
 6. [Streamline resource information](#6-streamline-resource-information)
 7. [Business Model](#7-business-model)
-  - 7.1 FOMO Pricing (Freemium)
-  - 7.2 Unit Economics
-  - 7.2.1 In-depth analysis of business model
-  - 7.2.2 Scenario-based revenue model (Year 2)
-  - 7.2.3 Unit cost and gross profit structure
-  - 7.3 Income structure (Year 1 End)
-  - 7.3.1 Paid conversion funnel
-  - 7.3.2 Year 2 Refined Revenue Forecast
-  - 7.3.3 B2B path
-  - 7.4 Growth Flywheel
-  - 7.5 Humanistic values ​​and business balance
-  - 7.6 Clear differentiation path (Why us)
+  - [7.1 FOMO Pricing (Freemium)](#71-fomo-定价freemium)
+  - [7.2 Unit Economics](#72-单元经济学)
+  - [7.2.1 In-depth analysis of business model](#721-商业模式深度分析对标国际主流)
+  - [7.2.2 Scenario-based revenue model (Year 2)](#722-情景化收入模型year-2)
+  - [7.2.3 Unit cost and gross profit structure](#723-单位成本与毛利结构ai-时代)
+  - [7.3 Income structure (Year 1 End)](#73-收入结构year-1-end)
+  - [7.3.1 Paid conversion funnel](#731-付费转化漏斗)
+  - [7.3.2 Year 2 Refined Revenue Forecast](#732-year-2-精细化收入预测)
+  - [7.3.3 B2B path](#733-b2b-路径团队版--学校版)
+  - [7.4 Growth Flywheel](#74-增长飞轮)
+  - [7.5 Humanistic values ​​and business balance](#75-人文价值与商业平衡)
+  - [7.6 Clear differentiation path (Why us)](#76-清晰差异化路径why-us)
 8. [Risk Management](#8-risk-management)
-  - 8.1 Risk heat map
-  - 8.2 Risk details and response Playbook (R1–R13)
-  - 8.3 Risk Monitoring Dashboard (Traffic Light)
-  - 8.4 Data Security and Compliance Checklist
+  - [8.1 Risk heat map](#81-风险热力图)
+  - [8.2 Risk details and response Playbook (R1–R13)](#82-风险详情与应对-playbook)
+  - [8.3 Risk Monitoring Dashboard (Traffic Light)](#83-分层指标监控体系four-dimensional-dashboard)
+  - [8.4 Data Security and Compliance Checklist](#84-数据安全与合规清单)
 9. [Appendix](#9-appendix)
-  - 9.1 Glossary
-  - 9.2 References
+  - [9.1 Glossary](#91-术语表)
+  - [9.2 References](#92-参考资料)
 10. [Business & Execution Pack](#10-business--execution-pack)
-   - 10.1 Financing Roadshow PPT Outline (12 Pages Deck)
-   - 10.2 MVP detailed task list (User Stories)
-   - 10.3 Product Philosophy and Humanistic Declaration
-   - 10.4 Operations and Growth (GTM) Strategy
-   - 10.5 Detailed 12-month financial forecast
+   - [10.1 Financing Roadshow PPT Outline (12 Pages Deck)](#101-融资路演-ppt-大纲12-页-deck)
+   - [10.2 MVP detailed task list (User Stories)](#102-mvp-详细任务清单-user-stories)
+   - [10.3 Product Philosophy and Humanistic Declaration](#103-产品哲学与人文宣言)
+   - [10.4 Operations and Growth (GTM) Strategy](#104-运营与增长-gtm-策略)
+   - [10.5 Detailed 12-month financial forecast](#105-12-个月财务预测详细表)
 
 ---
 
